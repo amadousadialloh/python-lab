@@ -1,16 +1,13 @@
 # Exercise 1
 
-# def getNane():
-#     name = input('What is your name')
-#     return name
+def getNane():
+    name = input('What is your name')
+    return name
 
 
-# getNane()
+getNane()
 
 # Exercise 2
-
-
-
 def reverseIt():
     string = 'a man, a plan, a canal, frenemises!'
     reverse = ''
